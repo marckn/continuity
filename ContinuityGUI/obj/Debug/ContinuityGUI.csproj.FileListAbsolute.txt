@@ -1,0 +1,10 @@
+C:\Users\Mark\Source\Repos\continuity\ContinuityGUI\obj\Debug\ContinuityGUI.csproj.AssemblyReference.cache
+C:\Users\Mark\Source\Repos\continuity\ContinuityGUI\obj\Debug\ContinuityGUI.Form1.resources
+C:\Users\Mark\Source\Repos\continuity\ContinuityGUI\obj\Debug\ContinuityGUI.Properties.Resources.resources
+C:\Users\Mark\Source\Repos\continuity\ContinuityGUI\obj\Debug\ContinuityGUI.csproj.GenerateResource.cache
+C:\Users\Mark\Source\Repos\continuity\ContinuityGUI\obj\Debug\ContinuityGUI.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Source\Repos\continuity\ContinuityGUI\bin\Debug\ContinuityGUI.exe.config
+C:\Users\Mark\Source\Repos\continuity\ContinuityGUI\bin\Debug\ContinuityGUI.exe
+C:\Users\Mark\Source\Repos\continuity\ContinuityGUI\bin\Debug\ContinuityGUI.pdb
+C:\Users\Mark\Source\Repos\continuity\ContinuityGUI\obj\Debug\ContinuityGUI.exe
+C:\Users\Mark\Source\Repos\continuity\ContinuityGUI\obj\Debug\ContinuityGUI.pdb
