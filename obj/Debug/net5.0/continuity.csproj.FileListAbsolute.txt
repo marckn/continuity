@@ -1,0 +1,16 @@
+/storage/REPOS/continuity/bin/Debug/net5.0/continuity
+/storage/REPOS/continuity/bin/Debug/net5.0/continuity.deps.json
+/storage/REPOS/continuity/bin/Debug/net5.0/continuity.runtimeconfig.json
+/storage/REPOS/continuity/bin/Debug/net5.0/continuity.runtimeconfig.dev.json
+/storage/REPOS/continuity/bin/Debug/net5.0/continuity.dll
+/storage/REPOS/continuity/bin/Debug/net5.0/ref/continuity.dll
+/storage/REPOS/continuity/bin/Debug/net5.0/continuity.pdb
+/storage/REPOS/continuity/obj/Debug/net5.0/continuity.csproj.AssemblyReference.cache
+/storage/REPOS/continuity/obj/Debug/net5.0/continuity.GeneratedMSBuildEditorConfig.editorconfig
+/storage/REPOS/continuity/obj/Debug/net5.0/continuity.AssemblyInfoInputs.cache
+/storage/REPOS/continuity/obj/Debug/net5.0/continuity.AssemblyInfo.cs
+/storage/REPOS/continuity/obj/Debug/net5.0/continuity.csproj.CoreCompileInputs.cache
+/storage/REPOS/continuity/obj/Debug/net5.0/continuity.dll
+/storage/REPOS/continuity/obj/Debug/net5.0/ref/continuity.dll
+/storage/REPOS/continuity/obj/Debug/net5.0/continuity.pdb
+/storage/REPOS/continuity/obj/Debug/net5.0/continuity.genruntimeconfig.cache
